@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{BBDC38E8-E1F6-7851-F26C-73E6A40DCA0B}|Unit Tests">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\EndGame.cs">
+    <Files>
+      <File FileName="Assets\Script\PunchingPointMovement.cs" Line="95" Column="19" />
+      <File FileName="Assets\Script\PunchFeedback.cs" Line="7" Column="26" />
+      <File FileName="Assets\Script\PunchPointGenerator.cs" Line="37" Column="40" />
+      <File FileName="Assets\Script\EndGame.cs" Line="41" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

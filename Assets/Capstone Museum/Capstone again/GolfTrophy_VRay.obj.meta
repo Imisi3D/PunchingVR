@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 15c58a9f15d4a244da45201516d7644c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Golf_Trophy_Club
+    100002: Golf_Trophy_Human
+    100004: Golf_Trophy_Stage
+    100006: Golf_Trophy_Tag
+    100008: //RootNode
+    400000: Golf_Trophy_Club
+    400002: Golf_Trophy_Human
+    400004: Golf_Trophy_Stage
+    400006: Golf_Trophy_Tag
+    400008: //RootNode
+    2300000: Golf_Trophy_Club
+    2300002: Golf_Trophy_Human
+    2300004: Golf_Trophy_Stage
+    2300006: Golf_Trophy_Tag
+    3300000: Golf_Trophy_Club
+    3300002: Golf_Trophy_Human
+    3300004: Golf_Trophy_Stage
+    3300006: Golf_Trophy_Tag
+    4300000: Golf_Trophy_Club
+    4300002: Golf_Trophy_Human
+    4300004: Golf_Trophy_Stage
+    4300006: Golf_Trophy_Tag
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Golf_Trophy_ClubMat
+    second: {fileID: 2100000, guid: 34dbb4840d99e0045b05bba2309e4c90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Golf_Trophy_HumanMat
+    second: {fileID: 2100000, guid: 711be7136c961af4d9c33e8ff15a28c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Golf_Trophy_StageMat
+    second: {fileID: 2100000, guid: 71eda1c5878e4654b848fd57dc2ea6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Golf_Trophy_TagMat
+    second: {fileID: 2100000, guid: 7bb40bd7032ebdb4a97b18cc58f2e706, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
